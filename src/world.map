@@ -1,0 +1,16 @@
+TERRA
+#first line must be "TERRA"
+#set number of tiles
+NTIL 1
+#set number of nations
+NNTN 1
+#set nation start location
+NTSL 0|0
+#first tile
+TLFR 0|20000
+TLPL 0|20000
+TLAT 0|10.0
+TLON 0|10.0
+TDLT 0|1.0
+TDLO 0|1.0
+TLEN 0
